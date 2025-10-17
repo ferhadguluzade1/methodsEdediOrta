@@ -8,7 +8,7 @@ static void edediOrta(int[] a)
         cem += a[i];
 
     }
-    float edediorta = cem / (a.Length);
+    int edediorta = cem / (a.Length);
     Console.WriteLine(edediorta);
     
 
